@@ -9,9 +9,9 @@
 
 ### Connect with Me:
 
-[<img align="left" alt="Andrew" width="22px" src:"https://simpleicons.org/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Andrew" width="22px" src:"https://simpleicons.org/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Andrew" width="22px" src:"https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Andrew | Facebook" width="22px" src:"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Andrew | Twitter" width="22px" src:"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Andrew | Youtube" width="22px" src:"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 

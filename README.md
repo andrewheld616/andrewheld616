@@ -9,31 +9,31 @@
 
 ### Connect with Me:
 
-[<img align="left" alt="Andrew | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Andrew | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Andrew | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Andrew | Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Andrew | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Andrew | Youtube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Code Studio" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-<img align="left" alt="Eclipse IDE" width="22px" src="https://simpleicons.org/icons/eclipseide.svg" />
-<img align="left" alt="JetBrains" width="22px" src="https://simpleicons.org/icons/jetbrains.svg" />
-<img align="left" alt="Java" width="22px" src="https://simpleicons.org/icons/java.svg" />
-<img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg" />
-<img align="left" alt="MySQL" width="22px" src="https://simpleicons.org/icons/mysql.svg" />
-<img align="left" alt="PostgreSQL" width="22px" src="https://simpleicons.org/icons/postgresql.svg" />
-<img align="left" alt="SQLite" width="22px" src="https://simpleicons.org/icons/sqlite.svg" />
-<img align="left" alt="HTML5" width="22px" src="https://simpleicons.org/icons/html5.svg" />
-<img align="left" alt="JavaScript" width="22px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" alt="PHP" width="22px" src="https://simpleicons.org/icons/php.svg" />
-<img align="left" alt="CSS" width="22px" src="https://simpleicons.org/icons/css3.svg" />
-<img align="left" alt="Git" width="22px" src="https://simpleicons.org/icons/git.svg" />
-<img align="left" alt="GitHub" width="22px" src="https://simpleicons.org/icons/github.svg" />
-<img align="left" alt="Android" width="22px" src="https://simpleicons.org/icons/android.svg" />
-<img align="left" alt="Android Studio" width="22px" src="https://simpleicons.org/icons/androidstudio.svg" />
-<img align="left" alt="Linux" width="22px" src="https://simpleicons.org/icons/linux.svg" />
+<img align="left" alt="Visual Code Studio" width="28px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" alt="Eclipse IDE" width="28px" src="https://simpleicons.org/icons/eclipseide.svg" />
+<img align="left" alt="JetBrains" width="28px" src="https://simpleicons.org/icons/jetbrains.svg" />
+<img align="left" alt="Java" width="28px" src="https://simpleicons.org/icons/java.svg" />
+<img align="left" alt="Python" width="28px" src="https://simpleicons.org/icons/python.svg" />
+<img align="left" alt="MySQL" width="28px" src="https://simpleicons.org/icons/mysql.svg" />
+<img align="left" alt="PostgreSQL" width="28px" src="https://simpleicons.org/icons/postgresql.svg" />
+<img align="left" alt="SQLite" width="28px" src="https://simpleicons.org/icons/sqlite.svg" />
+<img align="left" alt="HTML5" width="28px" src="https://simpleicons.org/icons/html5.svg" />
+<img align="left" alt="JavaScript" width="28px" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="left" alt="PHP" width="28px" src="https://simpleicons.org/icons/php.svg" />
+<img align="left" alt="CSS" width="28px" src="https://simpleicons.org/icons/css3.svg" />
+<img align="left" alt="Git" width="28px" src="https://simpleicons.org/icons/git.svg" />
+<img align="left" alt="GitHub" width="28px" src="https://simpleicons.org/icons/github.svg" />
+<img align="left" alt="Android" width="28px" src="https://simpleicons.org/icons/android.svg" />
+<img align="left" alt="Android Studio" width="28px" src="https://simpleicons.org/icons/androidstudio.svg" />
+<img align="left" alt="Linux" width="28px" src="https://simpleicons.org/icons/linux.svg" />
 
 <br />
 <br />

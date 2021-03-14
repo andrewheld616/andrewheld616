@@ -23,7 +23,6 @@
 <img align="left" alt="Java" width="32px" src="https://simpleicons.org/icons/java.svg" />
 <img align="left" alt="Python" width="32px" src="https://simpleicons.org/icons/python.svg" />
 <img align="left" alt="MySQL" width="32px" src="https://simpleicons.org/icons/mysql.svg" />
-<img align="left" alt="PostgreSQL" width="32px" src="https://simpleicons.org/icons/postgresql.svg" />
 <img align="left" alt="SQLite" width="32px" src="https://simpleicons.org/icons/sqlite.svg" />
 <img align="left" alt="HTML5" width="32px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="JavaScript" width="32px" src="https://simpleicons.org/icons/javascript.svg" />

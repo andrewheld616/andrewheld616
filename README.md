@@ -34,9 +34,15 @@
 <img align="left" alt="Android Studio" width="32px" src="https://simpleicons.org/icons/androidstudio.svg" />
 <img align="left" alt="Linux" width="32px" src="https://simpleicons.org/icons/linux.svg" />
 
+
+<br />
+
+###Check out my resume[website]
+
 <br />
 <br />
 
 [facebook]: https://www.facebook.com/andrewdheld
 [twitter]: https://twitter.com/andrewheld
 [instagram]: https://www.instagram.com/andrewheld616/
+[website]: https://andrewheld616.github.io/

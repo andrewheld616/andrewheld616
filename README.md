@@ -1,4 +1,4 @@
-### Hello world, I'm Andrew [website] :wave:
+### Hello world, I'm [Andrew][website] :wave:
 
 ## I'm an aspiring full-stack developer, and also sometimes an amateur chef and musician
 - :robot: I'm currently working on a sci-fi inspired 2D action/adventure RPG

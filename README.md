@@ -54,7 +54,10 @@
 
 ---
 
-<img align="left" alt="Andrew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+<br />
+<br />
+
+<img align="left" alt="Andrew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=prussian" />
 
 [facebook]: https://www.facebook.com/andrewdheld
 [twitter]: https://twitter.com/andrewheld

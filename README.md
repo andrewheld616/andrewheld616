@@ -43,7 +43,7 @@
 
 <br />
 
-<img align="left" alt="Andrew's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andrewheld616&show_icons=true&hide_border=true" />
+<img align="left" alt="Andrew's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andrewheld616&show_icons=true&hide_border=true&hide=prs&theme=prussian" />
 
 [facebook]: https://www.facebook.com/andrewdheld
 [twitter]: https://twitter.com/andrewheld

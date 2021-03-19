@@ -1,6 +1,6 @@
 ### Hello world, I'm [Andrew][website] :wave:
 
-## I'm an aspiring full-stack developer, and also sometimes an amateur chef and musician
+## I'm a full-stack developer, and sometimes also an amateur chef and musician
 - :robot: I'm currently working on a sci-fi inspired 2D action/adventure RPG
 - :closed_lock_with_key: I'm currently learning firewall security management & maitenance
 - :handshake: I'm looking forward to contributing to Open Source projects 
@@ -12,6 +12,7 @@
 [<img align="left" alt="Andrew | Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Andrew | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Andrew | Youtube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Andrew | Youtube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 <br />
 
@@ -41,3 +42,4 @@
 [twitter]: https://twitter.com/andrewheld
 [instagram]: https://www.instagram.com/andrewheld616/
 [website]: https://andrewheld616.github.io/
+[spotify]: https://spotify.com/user/andrewheld

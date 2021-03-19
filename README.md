@@ -57,7 +57,7 @@
 
 <br />
 
-<img align="left" alt="Andrew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewheld616&theme=prussian" />
+<img align="left" alt="Andrew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewheld616&hide_border=true&theme=prussian" />
 
 [facebook]: https://www.facebook.com/andrewdheld
 [twitter]: https://twitter.com/andrewheld

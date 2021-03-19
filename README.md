@@ -42,4 +42,4 @@
 [twitter]: https://twitter.com/andrewheld
 [instagram]: https://www.instagram.com/andrewheld616/
 [website]: https://andrewheld616.github.io/
-[spotify]: https://spotify.com/user/andrewheld
+[spotify]: https://open.spotify.com/user/andrewheld?fbclid=IwAR37k6eN0v8NWF2_ERnweNtW-Ry0WnxPTyiMmbrfwhZyFl70fbZNA-tXqPs

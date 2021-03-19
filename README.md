@@ -1,10 +1,11 @@
 ### Hello world, I'm [Andrew][website] :wave:
 
 ## I'm a full-stack developer, and sometimes also an amateur chef and musician
-- :robot: I'm currently working on a sci-fi inspired 2D action/adventure RPG
+- :robot: I'm currently working on a sci-fi inspired 2D action/adventure side-scroller
 - :closed_lock_with_key: I'm currently learning firewall security management & maitenance
 - :handshake: I'm looking forward to contributing to Open Source projects 
-- :trophy: 2021 Goal: To collaborate with more developers
+- :trophy: 2021 Goal: To work on DIY projects using Raspberry Pi
+- :snake: I want to try and recreate classic video games from my youth with pygame
 - :baseball: Fun Fact: I've been to over 200 baseball games
 
 ### Connect with Me:
@@ -37,6 +38,8 @@
 
 <br />
 <br />
+
+<img align="left" alt="Andrew's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andrewheld616&show_icons=true&hide_border=true" />
 
 [facebook]: https://www.facebook.com/andrewdheld
 [twitter]: https://twitter.com/andrewheld

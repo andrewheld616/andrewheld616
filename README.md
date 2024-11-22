@@ -4,7 +4,7 @@
 - :robot: I'm currently working on a sci-fi inspired 2D action/adventure side-scroller
 - :closed_lock_with_key: I'm currently learning firewall security management & maitenance
 - :handshake: I'm looking forward to contributing to Open Source projects 
-- :trophy: 2021 Goal: To work on DIY projects using Raspberry Pi
+- :trophy: 2025 Goal: To work on DIY projects using Raspberry Pi
 - :snake: I want to try and recreate classic video games from my youth with pygame
 - :baseball: Fun Fact: I've been to over 200 baseball games
 

@@ -18,10 +18,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Code Studio" width="32px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 <img align="left" alt="Eclipse IDE" width="32px" src="https://simpleicons.org/icons/eclipseide.svg" />
 <img align="left" alt="JetBrains" width="32px" src="https://simpleicons.org/icons/jetbrains.svg" />
-<img align="left" alt="Java" width="32px" src="https://simpleicons.org/icons/java.svg" />
 <img align="left" alt="Python" width="32px" src="https://simpleicons.org/icons/python.svg" />
 <img align="left" alt="MySQL" width="32px" src="https://simpleicons.org/icons/mysql.svg" />
 <img align="left" alt="SQLite" width="32px" src="https://simpleicons.org/icons/sqlite.svg" />

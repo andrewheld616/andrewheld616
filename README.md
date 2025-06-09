@@ -33,8 +33,10 @@
 <img align="left" alt="Android Studio" width="32px" src="https://simpleicons.org/icons/androidstudio.svg" />
 <img align="left" alt="Linux" width="32px" src="https://simpleicons.org/icons/linux.svg" />
 
-<br /
 <br />
+<br />
+
+---
 
 <img align="left" alt="Andrew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewheld616&hide_border=true&theme=prussian&layout=compact" />
 

@@ -26,7 +26,6 @@
 <img align="left" alt="HTML5" width="32px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="JavaScript" width="32px" src="https://simpleicons.org/icons/javascript.svg" />
 <img align="left" alt="PHP" width="32px" src="https://simpleicons.org/icons/php.svg" />
-<img align="left" alt="CSS" width="32px" src="https://simpleicons.org/icons/css3.svg" />
 <img align="left" alt="Git" width="32px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="GitHub" width="32px" src="https://simpleicons.org/icons/github.svg" />
 <img align="left" alt="Android" width="32px" src="https://simpleicons.org/icons/android.svg" />
